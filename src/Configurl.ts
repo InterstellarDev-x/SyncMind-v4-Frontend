@@ -1,0 +1,1 @@
+export const BACKEND_URL = "https://syncmind-v4.onrender.com"
